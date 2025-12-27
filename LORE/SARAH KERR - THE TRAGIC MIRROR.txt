@@ -1,0 +1,220 @@
+﻿SARAH KERR - THE TRAGIC MIRROR
+Her Ability: Adaptive Mimicry
+Sarah's PSI isn't just one type - it's meta-PSI. She can observe and replicate ANY psychic ability she witnesses.
+Mechanics:
+* Copy Condition: She must see a PSI move used successfully (in combat or demonstration)
+* Perfect Replication: She uses it at the SAME rank with the SAME modifiers as the original user
+* No Drawbacks: She doesn't suffer Mental Strain (BPSI) or Physical Recoil (HPSI)
+* Memory Bank: She retains every ability she's ever copied (17 years of collection)
+* Limitations: She can only use abilities she's SEEN. New PSI moves are vulnerabilities.
+Why This Makes Her Terrifying:
+* She's fought EVERY first-generation PSI user Rainbow Corp captured
+* She knows Alpha through Epsilon rank moves across all categories
+* She can switch between BPSI and HPSI fluidly (something players can't do)
+* She gets stronger every time she fights the party
+________________
+
+
+SARAH'S BACKSTORY - THE PERFECT WEAPON
+The Tragedy (1987-2004):
+Age 8 (1987): Sarah manifests telekinesis. Moves a toy across her bedroom.
+Rainbow Corp notices. They take her from her Baltimore home. Her parents are paid off or mind-wiped (she doesn't know which).
+Age 8-12: The Testing Phase
+* Isolated in a facility
+* Studied, prodded, measured
+* They discover her ability isn't just telekinesis
+* She can copy other PSI abilities she observes
+* Rainbow Corp realizes: She's the key to understanding ALL psychic powers
+Age 13-17: The Collaboration Phase
+* They make her an offer: "Help us understand PSI, or rot in a cell"
+* She chooses to help (survival instinct)
+* They bring her other captured PSI kids
+* She observes their abilities, copies them, helps Rainbow Corp document everything
+* Every kid she helps catalog disappears after
+* She tells herself: "They're being helped. They're being cured."
+Age 18-21: The Researcher Phase
+* Rainbow Corp makes her "Lead PSI Researcher"
+* Gives her a lab coat, an office, respect
+* She believes she's a scientist now, not a prisoner
+* Develops the extraction technology (with her copied knowledge)
+* Stockholm Syndrome fully set in
+Age 25 (2004): The Trigger Event
+* She finds Spin's crash site through tracking PSI radiation
+* Places hands on the ship core
+* It activates, sends convergence signal
+* Rainbow Corp: "Good work, Sarah. Now we can collect them all."
+* Sarah: "...And cure them, right?"
+* Rainbow Corp: "...Sure. Cure them."
+Present Day: Sarah is 26-27 (depending on timeline). She's Rainbow Corp's most valuable asset. And she's starting to doubt.
+________________
+
+
+SARAH'S MOVESET - THE ARSENAL
+She's collected abilities from 17 years of captured PSI users. Here's what she has ACCESS to (you pick what she uses based on the fight):
+First Generation Collection (1987-1999):
+BPSI Moves:
+* PK Flash (Alpha-Gamma) - Confusion/Fear
+* PK Spark (Alpha-Beta) - Lightning damage
+* PK Fire (Alpha-Delta) - Standard fire attacks
+* LifeUp (Alpha-Gamma) - Self-healing
+* PSI Guard (Alpha-Beta) - Damage reduction
+* Teleport (Beta) - Short-range repositioning
+* PSI Shield (Beta) - Reflects physical damage
+HPSI Moves:
+* PK Smash (Beta) - Melee explosion boost
+* PK Steel (Alpha-Gamma) - Defense hardening
+* PK Pyre (Alpha-Beta) - Fire burst
+Unique Abilities (Rare PSI users she copied):
+* "The Baltimore Blink" (Marcus Chen, captured 1995) - Phase through solid objects once per combat
+* "The Philly Scream" (Rebecca Torres, captured 1998) - Sonic attack, shatters glass/eardrums
+* "The DC Shadow" (David Williams, captured 2001) - Create illusory duplicates
+What She WILL Copy from Your Party:
+As the campaign progresses and she fights the teams:
+From A Team:
+* Balboa's Money-Spread Technique
+* McLOvin's paintball color effects
+* Yukari's Emergency Tuning (she can repair herself mid-fight)
+* Cooper's psychic nail constructs
+* Margret's... cleaning? (Actually, her determination/tank abilities)
+From B Team:
+* Jack's grappling techniques (she becomes a close-combat threat)
+* Samy's healing (makes her MUCH harder to kill)
+* Snas's PK Rime (cold attacks)
+* Derrick's fire abilities (Surtur's Sear, Freyja's Flambé)
+* Arthur's precision archery + makeshift adaptability
+The Horror: By the final fight, she can use ALL OF THIS.
+________________
+
+
+SARAH AS A RECURRING VILLAIN
+She appears throughout the campaign, getting stronger each time:
+Encounter 1: Session 7 (Facility Purge)
+Sarah "The Observer"
+Role: She's not trying to kill them yet - she's studying them
+HP: 80
+Tactics:
+* Stays at range
+* Uses copied first-gen abilities only
+* Takes notes (literally has a tablet)
+* "Fascinating. Your technique is... unrefined. But effective."
+* Retreats at 40 HP: "I have what I need. Thank you for the data."
+What She Copies: Whichever PSI moves the party uses during this fight
+________________
+
+
+Encounter 2: Session 9-10 (Rainbow Corp Raid)
+Sarah "The Enforcer"
+Role: Now she's actively defending Rainbow Corp HQ
+HP: 120
+New Abilities: Everything she copied from Encounter 1
+Tactics:
+* Uses player abilities against them
+* Balboa uses Money-Spread? She uses it back.
+* Derrick breathes fire? She breathes fire.
+* "I've been practicing. Want to see?"
+* Summons Rainbow Corp reinforcements (she can call backup)
+Emotional Dialogue:
+* If players question her: "You don't understand. I'm SAVING you. Mental Strain will destroy you. Let me help."
+* If they mention the kids who disappeared: "They were... They had to be... Rainbow Corp promised..."
+* Cracks showing: She's doubting, but not enough to stop
+Retreat Condition: 30 HP or Rainbow Corp HQ self-destruct initiated
+________________
+
+
+Encounter 3: Session 12-13 (The Betrayal)
+Sarah "The Defector"
+Role: She learns the truth about Rainbow Corp
+The Scene: The party corners her, or she corners them. But before the fight starts:
+Rainbow Corp Commander (via radio): "Dr. Kerr, terminate the subjects and return for extraction."
+Sarah: "Terminate? You said we were curing them."
+Commander: "The cure IS termination. We extract their PSI and dispose of the husk. You KNOW this, Sarah."
+Sarah drops her weapon.
+Sarah: "...I knew. Didn't I? I always knew."
+This Encounter: She HELPS the party fight Rainbow Corp forces, or at least doesn't fight them herself.
+But: She's mentally broken. 17 years of complicity crashes down on her.
+________________
+
+
+Encounter 4: Session 15+ (The Perfect Weapon)
+Sarah "The Apex Predator"
+Role: FINAL BOSS (before Harvesters)
+The Context: After defecting, Sarah is hunted by Rainbow Corp. She goes rogue, but she's FURIOUS:
+* Furious at Rainbow Corp for using her
+* Furious at herself for enabling them
+* Furious at Spin for crashing and causing all of this
+* Furious at the PARTY for making her see the truth
+Her Plan: If PSI is the problem, she'll remove it from humanity. Use Spin's ship core to create a PSI-nullifying field across Earth. No more powers. No more suffering. Factory reset.
+The Problem: This will kill EVERY PSI user on Earth (including the party, including herself).
+Sarah: "I've seen what PSI does. The mental strain. The recoil. The Harvesters coming. Humanity isn't ready. I'm ending it. I'm ending US."
+________________
+
+
+FINAL BOSS FIGHT: SARAH KERR, THE PERFECT COPY
+Phase 1: The Arsenal (HP 150)
+Sarah uses EVERYTHING she's copied from the campaign:
+Turn 1: Uses BPSI moves (PK Fire, PK Spark, PSI Guard)
+Turn 2: Uses HPSI moves (PK Smash, PK Steel, fire breath)
+Turn 3: Uses PARTY moves (their own abilities against them)
+Turn 4: Rotates unpredictably
+Mechanic: Adaptive Defense
+* First time she's hit by Physical → +2 DEF for rest of phase
+* First time she's hit by BPSI → Resistance to psychic damage
+* First time she's hit by HPSI → Heals 2d6 from fire/emotion attacks
+"I've fought everyone. I know every weakness. What can YOU do that I haven't seen?"
+________________
+
+
+Phase 2: The Breakdown (HP 100, triggers at 50% HP)
+Sarah stops using copied abilities. She starts using raw, uncontrolled PSI.
+Visual Change:
+* Her body glows with conflicting energies (BPSI blue + HPSI red)
+* She's crying while fighting
+* "I just wanted to help. I just wanted to be useful. WHY WASN'T I ENOUGH?"
+New Attacks:
+Mimic Overload
+* Uses THREE different copied abilities in one turn
+* Takes 2d6 recoil damage (her body can't handle it)
+* Desperate, sloppy, powerful
+Identity Crisis
+* Randomly switches between personalities of people she copied
+* "I'm Marcus— No, Rebecca— No, I'm—"
+* Each personality uses a different fighting style
+* Players can target specific "identities" to confuse her
+Self-Erasure
+* AoE 20ft, 3d10 psychic damage
+* All targets make DC 18 PSI Control check or lose access to ONE PSI move for 1d4 rounds
+* She's trying to delete PSI from existence, starting with herself
+________________
+
+
+Phase 3: The Choice (HP 50 or lower)
+Sarah collapses, exhausted. The ship core is active behind her (she's hijacked it).
+Sarah: "Just... just let me do this. Please. No more PSI. No more pain. I'll make it quick."
+Players can:
+Option A: Kill Her
+* Standard combat finish
+* Prevents her plan
+* She dies believing she failed everyone
+Option B: Talk Her Down
+* DC 20 GUTS check (multiple party members can try)
+* Remind her of the kids she helped (even accidentally)
+* Show her that PSI can be GOOD
+* If successful: She helps them against the Harvesters instead
+Option C: Absorb Her
+* If someone has similar mimicry/adaptation abilities
+* Or if they use Spin's tech
+* Sarah's knowledge is preserved, but she dies
+* Player gains access to some of her copied moves
+________________
+
+
+SARAH'S THEME: THE MIRROR
+She represents what the party could become:
+* A tool of the system
+* Someone who compromised until they lost themselves
+* Power without purpose
+Questions she forces the party to answer:
+* "Are YOU using your powers to help, or to feel special?"
+* "How many people will YOU sacrifice to 'save' humanity?"
+* "When the Harvesters come, will YOU make the same choice I did?"
+She's the tragic villain who makes players question if they're the heroes.

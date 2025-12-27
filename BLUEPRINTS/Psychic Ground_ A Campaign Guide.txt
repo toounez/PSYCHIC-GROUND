@@ -1,0 +1,121 @@
+﻿Psychic Ground: A Campaign Guide
+Introduction: The Core Premise
+Welcome to Psychic Ground, a campaign about endangered children with psychic powers fighting to survive the systems that want to use them, all while finding a family in each other. This is a story steeped in the "Earthbound Dark," a world of whimsical brutality where Christmas demons and cosmic entities exist alongside the mundane evil of corporate exploitation. The children are not chosen ones destined to save the world; they are desperate survivors, pulled from poverty, abuse, and trauma, who must learn to wield their unwanted gifts to stay alive. The core emotional heart of this campaign is the primary theme of children reclaiming agency from a world that has given them none. This guide provides the Game Master (GM) with the complete narrative structure, key antagonists, and world rules needed to run this desperate, but never hopeless, campaign.
+--------------------------------------------------------------------------------
+Part I: The World's Engine - Core Mechanics
+Understanding the core mechanics of Psychic Ground is strategically vital. These rules are not merely abstract systems for resolving conflict; they are carefully designed narrative tools. Each mechanic reinforces the campaign's central themes of power, the psychological cost of that power, and the fight to define one's own identity against overwhelming odds.
+1.1 The Foundation: Stats and Skills
+• Core Character Attributes
+• The foundation of any character is built upon seven Base Stats, which define their innate strengths and weaknesses.
+Stat
+	Focus
+	Primary Mechanical Effect
+	Offense (OFF)
+	Physical power, attack accuracy, and melee damage.
+	Used for physical attack rolls and damage.
+	Defense (DEF)
+	Damage reduction and physical resilience.
+	Contributes to damage reduction and Endurance.
+	Speed (SPD)
+	Initiative, movement, and quickness.
+	Used for initiative rolls, evasion, and quick checks.
+	Guts (GUTS)
+	Courage, willpower, and mental fortitude.
+	Contributes to PSI Control and resisting status effects.
+	Vitality (VIT)
+	Resilience, physical health, and stamina.
+	Directly affects maximum HP.
+	IQ (Intelligence)
+	Knowledge, psychic understanding, and problem-solving.
+	Directly affects maximum PP and PSI power.
+	Luck (LUK)
+	Serendipity, critical hits, and avoiding failure.
+	Used to avoid random hazards and succeed on critical checks.
+	• The Skill Mod System
+• Most actions in the game are resolved using Skill Mods, which are calculated by adding two complementary Base Stats. This system encourages players to think about how different attributes work together. Key Skill Mods include:
+    ◦ Physical: OFF + VIT
+    ◦ Endurance: DEF + VIT
+    ◦ Courage: GUTS + LUK
+    ◦ PSI Control: IQ + GUTS
+    ◦ Evasion / Stealth: SPD + LUK
+• Character Resource Formulas
+• A character's physical and psychic endurance are defined by their Hit Points (HP) and Psychic Points (PP).
+    ◦ Starting HP Max (Level 1): (5 x VIT) + 5
+    ◦ Starting PP Max (Level 1): (5 x IQ) + 5
+• Upon leveling up, these resources increase according to the following rules:
+    ◦ HP Max Increase: A character gains a fixed +5 HP, plus an additional +5 HP for every two full points of their Vitality (VIT) score.
+    ◦ PP Max Increase: A character gains a fixed +5 PP, plus an additional +5 PP for every two full points of their Intelligence (IQ) score.
+1.2 The Power: Psychic Disciplines (PSI)
+Psychic ability, or PSI, manifests in two distinct forms, reflecting the internal world of the user.
+Brain PSI (BPSI)
+	Heart PSI (HPSI)
+	Governing Stat
+	IQ (Intelligence)
+	Visual Signature
+	Subtle/Invisible. Sensed only by other psychics or those with special gear. Effects are often unseen, like mental damage or invisible shields.
+	Thematic Focus
+	Control & Subtlety. Involves mental manipulation, information gathering, and precise application of psychic force.
+	• PSI Rank and Cost System
+• The power of a PSI move is categorized by a rank, from the simple Alpha to the reality-altering Omega. Using higher-ranked abilities is costly and carries significant risk. Using a move of Delta rank or higher requires a Risk Check (PSI Control (IQ+GUTS) check) against the listed DC; failure results in Mental Strain.
+PSI Rank
+	PP Cost
+	Risk Check DC
+	Alpha
+	3 PP
+	N/A
+	Beta
+	5 PP
+	N/A
+	Gamma
+	8 PP
+	N/A
+	Delta
+	12 PP
+	DC 12
+	Epsilon
+	16 PP
+	DC 14
+	Zeta
+	20 PP
+	DC 16
+	Lambda
+	25 PP
+	DC 18
+	Sigma
+	30 PP
+	DC 20
+	Omega
+	40 PP
+	DC 22
+	• The Price of Power: Mental Strain
+• Pushing the limits of Brain PSI can scar the user's psyche. Failing a Risk Check or experiencing severe psychological trauma can inflict Mental Strain, with accumulating and often permanent consequences.
+Strain Level
+	Mechanical Effect
+	Minor Strain
+	-1 Luck for the rest of the scene.
+	Moderate Strain
+	Suffer Disadvantage on their next IQ check.
+	Crisis Strain
+	Lose 1 GUTS permanently. Gain a Permanent Psychological Quirk.
+	Psychic Break
+	The character is Stunned for 1d4 rounds and permanently loses access to one alpha or beta rank PSI move (their mind burned it out).
+	This system ensures that BPSI is not a tool of consequence-free power, but a dangerous art that forces players to weigh tactical advantage against the permanent scarring of their character's psyche.
+1.3 The Breaking Point: Abnormal Psyche Manifestations (APMs)
+• The Nature of APMs
+• Abnormal Psyche Manifestations are the ultimate expression of a character's power—volatile, high-risk transformations that tap into deep psychological reserves. An APM grants immense, temporary power that is directly tied to a character's unique identity, but it always comes at a great personal cost.
+• The Role of Psyche Anchors
+• Accessing an APM or other signature techniques requires a Psyche Anchor: a mundane item of deep narrative importance that is intertwined with the character's sense of self. The stability of this anchor is paramount, and its loss can be devastating.
+Event
+	Consequence
+	Anchor Lost/Stolen
+	The character cannot use their APM or any associated Techniques until the item is recovered.
+	Anchor Damaged/Broken
+	All item bonuses are halved. The character suffers -1 GUTS and cannot use their APM until the item is repaired.
+	Anchor Destroyed
+	The character must make a DC 15 GUTS check or gain Moderate Mental Strain. They permanently lose access to that specific APM and must acquire a new, narratively significant item to form a new Anchor.
+	The Psyche Anchor mechanic makes a character's power tangible and vulnerable. It forces players to ground their incredible psychic abilities in a mundane, personal story, making the loss of that item a deeply personal narrative event, not just a mechanical penalty.
+• APM Activation Triggers
+• A character can only activate their APM by taking a severe risk:
+    1. Suffer a Psychic Break: The character voluntarily accepts the Psychic Break penalty (including permanently losing access to one alpha or beta rank PSI move of their choice), activating the APM upon recovering from the stun.
+    2. Massive PP Burn: The character expends 50% of their current PP Max (minimum 20 PP) to trigger the transformation immediately.
+With the rules that govern their power established, we now turn to the narrative that will test these young heroes.

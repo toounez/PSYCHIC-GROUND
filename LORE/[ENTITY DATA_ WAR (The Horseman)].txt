@@ -1,0 +1,54 @@
+﻿[ENTITY DATA: WAR (The Horseman)]
+The Truth: War is not a concept; it is an entity. It exists because humanity feeds it. It grows with every drop of blood spilled, every battle fought, and every child conscripted. It has claimed the Cooper bloodline as its primary feeding chain.
+________________
+
+
+[THE PUPPET MASTER’S PASSIVES]
+* The Leash: Cooper takes Double Damage from all attacks. War is targeting his "Toy" specifically to break his will.
+* The Amalgamation: War cannot be knocked prone. He is a puppet held by marionette strings made of barbed wire and dog tags extending into an infinite darkness above.
+* Generational Debt: Every time Cooper uses a PSI move, the "strings" tighten. Cooper suffers -1 to his next GUTS check (stacking).
+________________
+
+
+[PHASE 1: THE SOLDIER]
+HP: 200 | DEF: 8 | SPD: 4 Form: A human-shaped figure, 9 feet tall, wearing a patchwork military uniform from WW2, Vietnam, Iraq, and wars yet to happen. The Faces: Three faces grafted and stitched together, melting into one another:
+1. Grandpa: Young, bleeding from the temple (WW2).
+2. Father: Older, Purple Heart pinned to skin (Vietnam).
+3. Brother: Half-burned, modern combat gear (Iraq).
+Attacks:
+* Grandpa’s Rifle: (2d10 Damage). “I held the line at Normandy, boy. Watched men drown in their own blood. Did it for YOU.”
+* Father’s Knife: (3d6 + Bleed 2). “This blade drank Viet Cong blood. Tasted children. For the MISSION. For the CHAIN.”
+* Brother’s Grenade: (3d8 AoE, 15ft). “He pulled the pin. Thought it would end the war. It just ended HIM. I'm still there, Cooper. I never came home.”
+________________
+
+
+[PHASE 2: THE CONSUMPTION]
+Trigger: 100 HP. Form: All three faces open their mouths simultaneously. Barbed wire and dog tags pour out like metal tongues. The puppet body jerks forward with unnatural, marionette-like movements. The Dialogue (Unison): “ENOUGH. You’ve had your REBELLION. Your TANTRUM. Now COME HOME.”
+Mechanic: THE CLAIM
+* Every Round: Cooper must make a DC 16 GUTS Check.
+   * Success: Resists the pull.
+   * Failure: War pulls him 10ft closer. Cooper suffers -1 to all rolls (stacking).
+   * Critical Fail (1): War grabs him. Cooper takes 4d10 damage and is Restrained. If he hits 0 HP here, the Possession (Bad Ending) begins.
+New Attacks:
+* The Draft: (Entire Party) DC 15 GUTS or become Marked. War gains +2 to hit any Marked target. “You ALL serve. Everyone serves SOMETHING.”
+* Meat for the Machine: Summons a line of ghostly soldiers. They reach for Cooper; if they touch him, he takes 2d6 Psychic Damage as he experiences their final agonizing moments.
+________________
+
+
+[PHASE 3: THE REJECTION]
+Trigger: 50 HP. Form: The strings snap. The body collapses and reforms into a Mass of Bodies. Dozens of screaming faces, hundreds of reaching hands. A cacophony of every soldier War has ever consumed. The Dialogue (Screaming): “YOU WERE MINE. BRED FOR THIS. WHY DO YOU RUN? YOU ARE WAR. ACCEPT IT!”
+The Choice (Cooper's Action):
+* Option A: Fight. Deal damage, but take 1d6 Recoil (Hurting War hurts your own bloodline).
+* Option B: Resist. DC 18 GUTS check to push the mass back.
+* Option C: Accept. Combat ends immediately. Cooper becomes an NPC (The Vessel).
+The Party’s Role:
+* Reach Cooper: Use a Standard Action to shout to Cooper. Roll DC 15 Courage (GUTS+LUK).
+   * Success: Cooper gets +2 to his next check.
+   * Crit Success: Cooper regains 2d6 HP.
+________________
+
+
+[THE RESOLUTION: BREAKING THE CHAIN]
+Condition: Cooper must choose to destroy the Purple Heart. The Narrative: Cooper realizes his family didn't fight so he could die; they fought so he could live. He crushes the medal. Mechanical Result: * War's body collapses into ash and dog tags.
+* Cooper's Psyche Anchor is destroyed (Massive Risk).
+* The "Claim" is broken forever. Cooper must eventually find a new Anchor based on his choice, not his blood.

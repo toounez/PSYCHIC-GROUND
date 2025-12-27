@@ -1,0 +1,155 @@
+﻿FORCED UPLOAD - MECHANICAL & NARRATIVE EFFECTS
+________________
+
+
+WHAT HAPPENS WHEN THEY FAIL
+When a player fails the contested PSI Control check during Forced Upload, they are pulled into The Garden - Harmonia's constructed utopia. But they don't just disappear for 1d4 rounds. They become something far more dangerous.
+________________
+
+
+THE GARDEN ILLUSION (What They Experience)
+The trapped player experiences subjective hours or days while only seconds pass in reality. They're shown a world tailored specifically to them:
+Examples:
+Jack:
+ He's home. Not "home" like a shelter or motel—home. A ranch, maybe. Warm fireplace. The whiskey bottle on the table never empties, but he never gets too drunk. No one judges him. No one leaves him. Peace.
+Margret:
+ A pristine castle. Everything is in its place. The dirt never returns no matter how much she cleans. No more messes to fix. No more chaos. Perfect order. Forever.
+Cooper:
+ His father is alive. They're fishing. His dad tells him he's proud. Over and over. The sun never sets. The moment never ends.
+Samy:
+ Her family is whole and happy. Her siblings don't outshine her. Everyone sees her. Everyone values her. She doesn't have to try so hard to be noticed.
+Balboa:
+ He's a champion. Crowds cheer. He never loses. The belt stays polished. He never has to prove himself again. He's already proved everything.
+Arthur:
+ His adoptive father never got sick. They're still hunting together. The woods are safe. The sickness never came. The ending was rewritten.
+Derrick:
+ His restaurant is full. Every dish is perfect. The customers love everything. His ancestral cleaver gleams. He's successful. Validated. Complete.
+Snas:
+ People don't look at him like he's weird. They get him. The jacket fits perfectly. He's included. He belongs. No more hiding.
+McLOvin:
+ The world is a game, but he's winning. People respect the paintball gun. He's not the punchline anymore. He's the hero. And it's fun.
+Yukari:
+ His father's racer is restored. Together they fix engines. The garage is warm. The work never ends because there's always another project, another moment together, another reason to stay.
+________________
+
+
+THE HOOK (Why It's Hard to Leave)
+Harmonia doesn't show them a fake world. She shows them the world they deserve. The world where everything went right.
+Each trapped player must make a choice:
+Stay in The Garden (where nothing will ever hurt them again)
+or
+ Remember why they're fighting (and return to a world that's still broken)
+________________
+
+
+MECHANICAL EFFECTS DURING COMBAT
+Round 1-2: Lost in The Garden
+* The player is incapacitated (standing motionless, eyes glazed)
+* Their body remains on the battlefield but does not act
+* Allies can attempt to wake them (DC 15 GUTS check as an action, or deal 10+ damage to shock them awake)
+* Harmonia's Whisper: Each round they remain trapped, Harmonia speaks to them through the illusion:
+   * "Why go back? They don't need you. Stay here. You've earned this peace."
+________________
+
+
+Round 3: The Temptation
+If still trapped by Round 3, the player must make a DC 18 GUTS check:
+Success: They break free on their own (sheer willpower)
+Failure: They believe The Garden is real. They accept Harmonia's offer.
+→ They become a CONVERTED ally.
+________________
+
+
+CONVERTED STATE (The Real Danger)
+If a player fully succumbs to The Garden, they wake up... but they're changed.
+Mechanical Changes:
+* The player takes control of their character as normal
+* BUT their goal is now: "Protect Harmonia. Stop the others from destroying The Garden."
+* They retain all their abilities and gear
+* They are not mind-controlled in a puppeted sense—they genuinely believe this is the right choice
+Roleplaying the Converted:
+The player should act like their character finally understands:
+Jack: "Guys, stop. She's trying to HELP us. When's the last time anyone helped us? Just... let her do this."
+Margret: "Why are you fighting? There's no mess to clean in The Garden. Everything is perfect. Don't you want that?"
+Cooper: "My dad's alive in there. ALIVE. And you want me to destroy that? Are you serious?"
+Balboa: "I'm tired of fighting. Let her win. Let US win for once."
+Samy: "She loves us. She really, really loves us. Isn't that what we wanted?"
+________________
+
+
+HOW TO SAVE A CONVERTED ALLY
+The party has three options to bring a Converted ally back:
+Option 1: The Hard Way (Combat)
+* Reduce the Converted ally to 0 HP (non-lethally)
+* When they fall unconscious, the connection to The Garden breaks
+* They wake up confused, disoriented, but themselves again
+* Cost: They suffer -2 to all rolls for 1d4 rounds (trauma from being torn out of paradise)
+________________
+
+
+Option 2: The Emotional Appeal (Roleplay)
+* Another party member uses their action to make a plea
+* Describe a shared memory, a promise, a reason to come back
+* The Converted ally makes a DC 16 GUTS check
+   * Success: They snap out of it, return to the fight
+   * Failure: They remain Converted for another round (can try again)
+Examples:
+To Jack: "Remember the ranch you told me about? The one you wanted to find someday? It's still out there. REAL. Not this fake bullshit. Come back and we'll find it. Together."
+To Margret: "You don't clean because you want perfection. You clean because you care. And we need you. The REAL us. Not these... hollow copies she's giving you."
+To Cooper: "Your dad wouldn't want you to stop here. He gave you that medal so you'd keep going. LIVE. Not hide in a dream."
+________________
+
+
+Option 3: Shatter The Garden (Tech Solution)
+* Someone with high Tech/Fix (like Yukari or Arthur) can attempt to hack Harmonia's systems
+* DC 20 Tech/Fix check as a full action
+   * Success: The forced upload connections sever. All Converted allies snap back immediately.
+   * Failure: The connection strengthens. Converted allies gain +2 to all rolls as The Garden's hold deepens.
+________________
+
+
+NARRATIVE WEIGHT
+The Converted state is meant to be heartbreaking:
+* The player wants to stay
+* The character believes this is right
+* The party has to decide: Do we force them to suffer again?
+Because that's Harmonia's point, isn't it?
+"I can give them peace. You can only give them struggle. Who is the real villain here?"
+________________
+
+
+AFTER THE FIGHT
+If a player was Converted (even briefly), they remember everything from The Garden:
+* The warmth
+* The safety
+* The absence of pain
+Some might never fully shake the feeling that they made the wrong choice by coming back.
+Others might be angry at Harmonia for showing them something so beautiful and then ripping it away.
+Either way, they'll never forget what it felt like to not hurt.
+________________
+
+
+EXAMPLE COMBAT SEQUENCE
+Round 1:
+ Harmonia uses Forced Upload on Jack.
+Jack fails the contested PSI Control check.
+Jack's player goes limp at the table. "I see... a ranch. It's warm. Someone's calling me inside for dinner."
+Round 2:
+ The party attacks Harmonia while Balboa tries to shake Jack awake (DC 15 GUTS check).
+Balboa rolls a 12. Fails.
+Harmonia whispers: "No one's shaking you awake from THIS dream, Jack. This one's yours to keep."
+Round 3:
+ Jack must make DC 18 GUTS check.
+Jack rolls a 10. He fails.
+Round 4:
+ Jack wakes up. But his eyes are calm. Too calm.
+Jack (to the party): "Stop fighting her. She's giving us what we've always wanted. Why are you trying to ruin this?"
+Jack moves to block attacks aimed at Harmonia.
+Round 5:
+ Cooper uses his action to yell at Jack:
+"You told me once that running away just meant you'd have to face it later! You think hiding in a fake ranch is any different?!"
+Jack makes a DC 16 GUTS check.
+Rolls a 17.
+Jack blinks. The calm fades. He stumbles.
+Jack: "I... what the hell was I...?"
+He's back. But he's shaking.
